@@ -14,11 +14,11 @@ xxx
 
 ## :briefcase: Experiência Profissional
 
-:office:
+- ### :office: Stefanini Document Solutions
 
-:link:
-
-:calendar:
+  - Engenheiro de Testes
+  - :link: www.stefanini.com
+  - :calendar: 05/2019 - Atual
 
 ## :mortar_board: Formação Acadêmica
 
