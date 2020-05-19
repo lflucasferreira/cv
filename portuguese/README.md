@@ -25,9 +25,9 @@ xxx
 
 - ### :classical_building: Dalhousie University
 
-  - :computer: Bacharelado em Ciência da Computação
+  - :student: Bacharelado em Ciência da Computação
   - :airplane: Intercâmbio via CAPES - Governo Federal
-  - :spiral_calendar: 2013 - 2014
+  - :calendar: 2013 - 2014
   - :canada: Halifax, NS - Canadá
 
 <!-- Bachelor of Computer Science, BCS -->
