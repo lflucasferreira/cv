@@ -1,12 +1,12 @@
 # Lucas Ferreira
 
-|∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ | ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙        |
-|-----------------------------------------|--------------------------------------------------|
-| :brazil: **Brasileiro**                 | :telephone_receiver: **+55 81 99722-6092**       |
-| :birthday: **32 anos**                  | :computer: www.lucasferreira.net                 |
-| :heartbeat: **Solteiro**                | :e-mail: lucasferreira@outlook.com.br            |
-| :baby: **Sem filhos**                   | :octocat: www.github.com/lflucasferreira         |
-| :man_technologist: **Engenheiro de Testes**         | :round_pushpin: **Recife, PE - Brasil**          |
+|∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙     | ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙        |
+|---------------------------------------------|--------------------------------------------------|
+| :brazil: **Brasileiro**                     | :telephone_receiver: **+55 81 99722-6092**       |
+| :birthday: **32 anos**                      | :computer: www.lucasferreira.net                 |
+| :sparkling_heart: **Solteiro**              | :e-mail: lucasferreira@outlook.com.br            |
+| :baby: **Sem filhos**                       | :octocat: www.github.com/lflucasferreira         |
+| :man_technologist: **Engenheiro de Testes** | :round_pushpin: **Recife, PE - Brasil**          |
 
 ## Sobre mim
 
@@ -26,7 +26,7 @@ xxx
 
 - ### :classical_building: Dalhousie University
 
-  - :man_technologist: Bacharelado em Ciência da Computação
+  - :closed_book: Bacharelado em Ciência da Computação
   - :airplane: Intercâmbio via CAPES - Governo Federal
   - :calendar: 09/2013 - 12/2014
   - :canada: Halifax, NS - Canadá
