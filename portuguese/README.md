@@ -35,6 +35,7 @@ xxx
 
   - :computer: Sistemas de Informação
   - :calendar: 2011 - 2020
+  - :brazil: Recife, PE - Brasil
 
 
 ## :earth_americas: Idiomas
