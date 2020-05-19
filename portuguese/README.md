@@ -18,6 +18,7 @@ xxx
 
   - :office_worker: Engenheiro de Testes
   - :label: atua como engenheiro
+  - :toolbox: BDD, Jenkins, Docker
   - :calendar: 05/2019 - Atual
   - :link: www.stefanini.com
 
