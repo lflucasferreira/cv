@@ -39,9 +39,9 @@ xxx
 
 ## :earth_americas: Idiomas
 
-- :us: Inglês: fluente
-- :brazil: Português: nativo
-- :fr: Francês: básico
+- :us: **Inglês**: fluente
+- :brazil: **Português**: nativo
+- :fr: **Francês**: básico
 
 ## Habilidades
 
