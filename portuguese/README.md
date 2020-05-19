@@ -1,11 +1,12 @@
 # Lucas Ferreira
 
-|∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙| ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙        |
-|----------------------------------------|--------------------------------------------------|
-| :brazil: **Brasileiro**                | :telephone_receiver: **+55 81 99722-6092**       |
-| :birthday: **32 anos**                 | :e-mail: lucasferreira@outlook.com.br            |
-| :sparkling_heart: **Solteiro**         | :computer: www.lucasferreira.net                 |
-| :baby: **Sem filhos**                  | :round_pushpin: **Recife, PE - Brasil**          |
+|∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ | ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙        |
+|-----------------------------------------|--------------------------------------------------|
+| :brazil: **Brasileiro**                 | :telephone_receiver: **+55 81 99722-6092**       |
+| :birthday: **32 anos**                  | :e-mail: lucasferreira@outlook.com.br            |
+| :sparkling_heart: **Solteiro**          | :computer: www.lucasferreira.net                 |
+| :baby: **Sem filhos**                   | :octocat: www.github.com/lflucasferreira         |
+| :round_pushpin: **Recife, PE - Brasil** | xxx |
 
 ## Sobre mim
 
@@ -53,19 +54,15 @@ xxx
 
 xxx
 
-## :performing_arts: Redes Sociais
+## :dart: Metas
 
-- :octocat: [Github](https://www.github.com/lflucasferreira)
+xxx
 
 ## :books: Livros Favoritos
 
 :book:
 
 :bookmark:
-
-## :dart: Metas
-
-xxx
 
 ## :warning: Observações
 
