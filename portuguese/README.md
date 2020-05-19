@@ -19,8 +19,6 @@ xxx
 
 :calendar:
 
-xxx
-
 ## :mortar_board: Formação Acadêmica
 
 :closed_book:
@@ -31,13 +29,7 @@ xxx
 
 :orange_book:
 
-xxx
-
-## :speech_balloon: Idiomas
-
-:globe_with_meridians:
-
-:earth_americas:
+## :earth_americas: Idiomas
 
 - Inglês: fluente
 - Português: nativo
@@ -50,11 +42,9 @@ xxx
 
 :1st_place_medal:
 
-xxx
-
 ## :performing_arts: Redes Sociais
 
-:octocat: [Github](https://www.github.com/lflucasferreira)
+  :octocat: [Github](https://www.github.com/lflucasferreira)
 
 ## :books: Livros Favoritos
 
@@ -62,11 +52,7 @@ xxx
 
 :bookmark:
 
-:dart:
-
-## :triangular_flag_on_post: Metas
-
-:dart:
+## :dart: Metas
 
 xxx
 
