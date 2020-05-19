@@ -7,6 +7,38 @@
 | :church: **Estado Civil**: Solteiro    | :anchor: **Website:** www.lucasferreira.net      |
 | :baby: **Filhos:** nenhum              | :mailbox: **Local:** Recife, PE - Brasil         |
 
+
+<table>
+  <colgroup>
+    <col style="width:50%">
+    <col style="width:50%">
+  </colgroup>
+  <thead style="text-align:left;">
+    <tr>
+      <th id="d15541e77">Geral</th>
+      <th id="d15541e83">Contato</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td headers="d15541e80 ">:brazil: **Nacionalidade**: Brasileiro</td>
+      <td headers="d15541e83 ">:phone: **Celular**: +55 81 99722-6092</td>
+    </tr>
+    <tr>
+      <td headers="d15541e80 ">:birthday: **Idade:** 32 anos</td>
+      <td headers="d15541e83 ">:e-mail: **Email:** lucasferreira@outlook.com.br</td>
+    </tr>
+    <tr>
+      <td headers="d15541e80 ">:church: **Estado Civil**: Solteiro</td>
+      <td headers="d15541e83 ">:anchor: **Website:** www.lucasferreira.net</td>
+    </tr>
+    <tr>
+      <td headers="d15541e80 ">:baby: **Filhos:** nenhum</td>
+      <td headers="d15541e83 ">:mailbox: **Local:** Recife, PE - Brasil </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Sobre mim
 
 xxx
