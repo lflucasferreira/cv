@@ -11,7 +11,7 @@
 
 xxx
 
-## :briefcase: Experiência Profissional
+## Experiência Profissional :briefcase:
 
 :office:
 
@@ -19,7 +19,7 @@ xxx
 
 :calendar:
 
-## :mortar_board: Formação Acadêmica
+## Formação Acadêmica :mortar_board:
 
 :closed_book:
 
@@ -40,11 +40,11 @@ xxx
 
 ## :trophy: Conquistas
 
-:1st_place_medal:
+xxx
 
 ## :performing_arts: Redes Sociais
 
-  :octocat: [Github](https://www.github.com/lflucasferreira)
+- :octocat: [Github](https://www.github.com/lflucasferreira)
 
 ## :books: Livros Favoritos
 
