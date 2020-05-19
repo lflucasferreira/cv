@@ -2,7 +2,7 @@
 
 # Lucas Ferreira
 
-<table>
+<table style="border: none;">
   <tr>
     <td rowspan="6">
       <img src='../images/foto.jpg' alt='Foto' width='200'>
