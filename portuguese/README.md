@@ -40,8 +40,8 @@ xxx
 ## :earth_americas: Idiomas
 
 - :us: **Inglês**: fluente
-- :brazil: **Português**: nativo
 - :fr: **Francês**: básico
+- :brazil: **Português**: nativo
 
 ## Habilidades
 
