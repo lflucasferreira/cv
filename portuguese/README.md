@@ -21,15 +21,13 @@ xxx
 
 ## :mortar_board: Formação Acadêmica
 
-:closed_book:
+:closed_book: :green_book: :blue_book: :orange_book:
 
-:green_book:
+- ### :classical_building: Dalhousie University
 
-:blue_book:
-
-:orange_book:
-
-:canada:
+  - :computer: Ciência da Computação
+  - :calendar: 2013 - 2014
+  - :canada: Halifax, NS - Canadá
 
 - ### :classical_building: Universidade Federal Rural de Pernambuco (UFRPE)
 
