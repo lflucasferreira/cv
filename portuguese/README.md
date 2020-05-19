@@ -10,7 +10,7 @@
 
 <table>
   <colgroup>
-    <col style="width:50%">
+    <col style="width:100px">
     <col style="width:50%">
   </colgroup>
   <thead style="text-align:left;">
