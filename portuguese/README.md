@@ -1,14 +1,42 @@
-<img src='../images/foto.jpg' alt='Foto' width='200'>
+
 
 # Lucas Ferreira
 
-|∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙     | ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙        |
+<table>
+  <tr>
+    <td rowspan="5">
+      <img src='../images/foto.jpg' alt='Foto' width='200'>
+    <td>
+  </tr>
+  <tr>
+    <td>:brazil: <b>Brasileiro</b><td>
+    <td>:telephone_receiver: <b>+55 81 99722-6092</b><td>
+  </tr>
+  <tr>
+    <td>:birthday: <b>32 anos</b><td>
+    <td>:computer: www.lucasferreira.net<td>
+  </tr>
+  <tr>
+    <td>:sparkling_heart: <b>Solteiro</b><td>
+    <td>:e-mail: lucasferreira@outlook.com.br<td>
+  </tr>
+  <tr>
+    <td>:baby: <b>Sem filhos</b><td>
+    <td>:octocat: www.github.com/lflucasferreira<td>
+  </tr>
+  <tr>
+    <td>:man_technologist: <b>Engenheiro de Testes</b><td>
+    <td>:round_pushpin: <b>Recife, PE - Brasil</b><td>
+  </tr>
+</table>
+
+<!-- |∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙     | ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙        |
 |---------------------------------------------|--------------------------------------------------|
 | :brazil: **Brasileiro**                     | :telephone_receiver: **+55 81 99722-6092**       |
 | :birthday: **32 anos**                      | :computer: www.lucasferreira.net                 |
 | :sparkling_heart: **Solteiro**              | :e-mail: lucasferreira@outlook.com.br            |
 | :baby: **Sem filhos**                       | :octocat: www.github.com/lflucasferreira         |
-| :man_technologist: **Engenheiro de Testes** | :round_pushpin: **Recife, PE - Brasil**          |
+| :man_technologist: **Engenheiro de Testes** | :round_pushpin: **Recife, PE - Brasil**          | -->
 
 ## :hand: Sobre mim
 
