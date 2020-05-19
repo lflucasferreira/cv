@@ -1,11 +1,9 @@
-
-
 # Lucas Ferreira
 
 <table style="border: none;">
   <tr>
     <td rowspan="6">
-      <img src='../images/foto.jpg' alt='Foto' width='200'>
+      <img src='../images/foto.jpg' alt='Foto' width='300'>
     <td>
   </tr>
   <tr>
@@ -30,7 +28,13 @@
   </tr>
 </table>
 
-
+<!-- |∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙     | ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙        |
+|---------------------------------------------|--------------------------------------------------|
+| :brazil: **Brasileiro**                     | :telephone_receiver: **+55 81 99722-6092**       |
+| :birthday: **32 anos**                      | :computer: www.lucasferreira.net                 |
+| :sparkling_heart: **Solteiro**              | :e-mail: lucasferreira@outlook.com.br            |
+| :baby: **Sem filhos**                       | :octocat: www.github.com/lflucasferreira         |
+| :man_technologist: **Engenheiro de Testes** | :round_pushpin: **Recife, PE - Brasil**          | -->
 
 ## :hand: Sobre mim
 
