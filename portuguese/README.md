@@ -11,7 +11,7 @@
 
 xxx
 
-## Experiência Profissional :briefcase:
+## :briefcase: Experiência Profissional
 
 :office:
 
@@ -19,7 +19,7 @@ xxx
 
 :calendar:
 
-## Formação Acadêmica :mortar_board:
+## :mortar_board: Formação Acadêmica
 
 :closed_book:
 
