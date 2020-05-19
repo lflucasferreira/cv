@@ -4,7 +4,7 @@
 |-----------------------------------------|--------------------------------------------------|
 | :brazil: **Brasileiro**                 | :telephone_receiver: **+55 81 99722-6092**       |
 | :birthday: **32 anos**                  | :computer: www.lucasferreira.net                 |
-| :sparkling_heart: **Solteiro**          | :e-mail: lucasferreira@outlook.com.br            |
+| :standing_man: **Solteiro**             | :e-mail: lucasferreira@outlook.com.br            |
 | :baby: **Sem filhos**                   | :octocat: www.github.com/lflucasferreira         |
 | :round_pushpin: **Recife, PE - Brasil** | xxx |
 
@@ -26,7 +26,7 @@ xxx
 
 - ### :classical_building: Dalhousie University
 
-  - :scientist: Bacharelado em Ciência da Computação
+  - :man_technologist: Bacharelado em Ciência da Computação
   - :airplane: Intercâmbio via CAPES - Governo Federal
   - :calendar: 09/2013 - 12/2014
   - :canada: Halifax, NS - Canadá
