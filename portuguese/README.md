@@ -34,7 +34,7 @@ xxx
 
 - ### :classical_building: Universidade Federal Rural de Pernambuco (UFRPE)
 
-  - :student: Bacharelado em Sistemas de Informação
+  - :electron: Bacharelado em Sistemas de Informação
   - :calendar: 2011 - 2020
   - :brazil: Recife, PE - Brasil
 
@@ -70,3 +70,5 @@ xxx
 ## :warning: Observações
 
 xxx
+
+<pre>Atualizado em: 19 de Maio de 2020.</pre>
