@@ -1,22 +1,11 @@
 # Lucas Ferreira
 
-:brazil: **Nacionalidade**: Brasileiro
-
-:birthday: **Idade:** 32 anos
-
-:church: **Estado Civil**: Solteiro
-
-:baby: **Filhos:** nenhum
-
-:phone: **Celular**: +55 81 99722-6092
-
-:e-mail: **Email:** lucasferreira@outlook.com.br
-
-:anchor: **Website:** www.lucasferreira.net
-
-:mailbox: **Local:** Recife, PE - Brasil :round_pushpin:
-
-:pushpin:	
+| Geral                                  | Contato                                          |
+|----------------------------------------|--------------------------------------------------|
+| :brazil: **Nacionalidade**: Brasileiro | :phone: **Celular**: +55 81 99722-6092           |
+| :birthday: **Idade:** 32 anos          | :e-mail: **Email:** lucasferreira@outlook.com.br |
+| :church: **Estado Civil**: Solteiro    | :anchor: **Website:** www.lucasferreira.net      |
+| :baby: **Filhos:** nenhum              | :mailbox: **Local:** Recife, PE - Brasil         |
 
 ## Sobre mim
 
