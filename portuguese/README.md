@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td rowspan="5">
+    <td rowspan="6">
       <img src='../images/foto.jpg' alt='Foto' width='200'>
     <td>
   </tr>
