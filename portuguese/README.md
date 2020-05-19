@@ -21,7 +21,7 @@ xxx
 
 ## :mortar_board: Formação Acadêmica
 
-:closed_book: :green_book: :blue_book: :orange_book:
+<!-- :closed_book: :green_book: :blue_book: :orange_book: -->
 
 - ### :classical_building: Dalhousie University
 
