@@ -24,9 +24,9 @@ xxx
 
 <!-- :closed_book: :green_book: :blue_book: :orange_book: -->
 
-- ### :classical_building: Dalhousie University
+- ### :school: Dalhousie University
 
-  - :school_satchel: Bacharelado em Ciência da Computação
+  - :man_technologist: Bacharelado em Ciência da Computação
   - :airplane: Intercâmbio via CAPES - Governo Federal
   - :calendar: 09/2013 - 12/2014
   - :canada: Halifax, NS - Canadá
