@@ -1,10 +1,19 @@
 # Lucas Ferreira
 
-:church: **Estado Civil**: Solteiro  
-:baby_bottle: **Filhos:** nenhum
-:phone: **Celular**: +55 81 99722-6092  
-:e-mail: **Email:** lucasferreira@outlook.com.br  
-**Website:** www.lucasferreira.net  
+:brazil: **Nacionalidade**: Brasileiro
+
+:birthday: **Idade:** 32 anos
+
+:church: **Estado Civil**: Solteiro
+
+:baby: **Filhos:** nenhum
+
+:phone: **Celular**: +55 81 99722-6092
+
+:e-mail: **Email:** lucasferreira@outlook.com.br
+
+:anchor: **Website:** www.lucasferreira.net
+
 :mailbox: **Local:** Recife, PE - Brasil :round_pushpin:
 
 :pushpin:	
@@ -13,19 +22,17 @@
 
 xxx
 
-## Experiência Profissional
-
-:briefcase:
+## :briefcase: Experiência Profissional
 
 :office:
+
+:link:
 
 :calendar:
 
 xxx
 
-## Formação Acadêmica
-
-:mortar_board:
+## :mortar_board: Formação Acadêmica
 
 :closed_book:
 
@@ -37,7 +44,7 @@ xxx
 
 xxx
 
-## Idiomas :speech_balloon:
+## :speech_balloon: Idiomas
 
 :globe_with_meridians:
 
@@ -50,28 +57,30 @@ xxx
 
 xxx
 
-## Conquistas
+## :trophy: Conquistas
 
-:trophy:
+:1st_place_medal:
 
-## Redes Sociais
+xxx
+
+## :performing_arts: Redes Sociais
 
 :octocat: [Github](https://www.github.com/lflucasferreira)
 
-## Livros Favoritos
+## :books: Livros Favoritos
 
 :book:
-
-:books:
 
 :bookmark:
 
 :dart:
 
-## Metas
+## :triangular_flag_on_post: Metas
 
-:triangular_flag_on_post:
+:dart:
 
-## Observações
+xxx
 
-:warning:
+## :warning: Observações
+
+xxx
