@@ -1,6 +1,4 @@
-# Lucas Ferreira 
-
-:male_sign:
+# Lucas Ferreira
 
 |∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙| ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙        |
 |----------------------------------------|--------------------------------------------------|
@@ -36,7 +34,7 @@ xxx
 
 - ### :classical_building: Universidade Federal Rural de Pernambuco (UFRPE)
 
-  - :electron: Bacharelado em Sistemas de Informação
+  - :man_technologist: Bacharelado em Sistemas de Informação
   - :calendar: 2011 - 2020
   - :brazil: Recife, PE - Brasil
 
