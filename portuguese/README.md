@@ -1,4 +1,4 @@
-<img src='./images/foto.jpg' alt='Foto' width='300'>
+<img src='../images/foto.jpg' alt='Foto' width='200'>
 
 # Lucas Ferreira
 
