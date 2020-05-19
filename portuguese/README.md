@@ -17,8 +17,9 @@ xxx
 - ### :office: Stefanini Document Solutions
 
   - Engenheiro de Testes
-  - :link: www.stefanini.com
+  - :label: xxxx
   - :calendar: 05/2019 - Atual
+  - :link: www.stefanini.com
 
 ## :mortar_board: Formação Acadêmica
 
