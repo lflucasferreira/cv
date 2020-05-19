@@ -17,8 +17,8 @@ xxx
 - ### :office: Stefanini Document Solutions
 
   - :office_worker: Engenheiro de Testes
-  - :label: atua como engenheiro
-  - :hammer_and_wrench: BDD, Jenkins, Docker
+    - :label: atua como engenheiro
+    - :hammer_and_wrench: BDD, Jenkins, Docker
   - :calendar: 05/2019 - Atual
   - :link: www.stefanini.com
 
