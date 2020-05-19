@@ -1,6 +1,6 @@
 # Lucas Ferreira
 
-| Geral                                  | Contato                                          |
+| <div style="width:50%">Geral</div>     | Contato                                          |
 |----------------------------------------|--------------------------------------------------|
 | :brazil: **Nacionalidade**: Brasileiro | :phone: **Celular**: +55 81 99722-6092           |
 | :birthday: **Idade:** 32 anos          | :e-mail: **Email:** lucasferreira@outlook.com.br |
