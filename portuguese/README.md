@@ -1,3 +1,5 @@
+<img src='./images/foto.jpg' alt='Foto' width='300'>
+
 # Lucas Ferreira
 
 |∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙     | ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙        |
