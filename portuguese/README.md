@@ -16,7 +16,7 @@ xxx
 
 - ### :office: Stefanini Document Solutions
 
-  - Engenheiro de Testes
+  - :office_worker: Engenheiro de Testes
   - :label: xxxx
   - :memo: atua como engenheiro
   - :calendar: 05/2019 - Atual
