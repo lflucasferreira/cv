@@ -4,7 +4,7 @@
 |----------------------------------------|--------------------------------------------------|
 | :brazil: **Nacionalidade**: Brasileiro | :phone: **Celular**: +55 81 99722-6092           |
 | :birthday: **Idade:** 32 anos          | :e-mail: **Email:** lucasferreira@outlook.com.br |
-| :church: **Estado Civil**: Solteiro    | :anchor: **Website:** www.lucasferreira.net      |
+| :cupid: **Estado Civil**: Solteiro    | :anchor: **Website:** www.lucasferreira.net      |
 | :baby: **Filhos:** nenhum              | :mailbox: **Local:** Recife, PE - Brasil         |
 
 ## Sobre mim
@@ -28,6 +28,13 @@ xxx
 :blue_book:
 
 :orange_book:
+
+:canada:
+
+:classical_building: UFRPE
+:computer: Sistemas de Informação
+:calendar: 2011 - 2020
+
 
 ## :earth_americas: Idiomas
 
