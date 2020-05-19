@@ -33,8 +33,8 @@ xxx
 
 ### :classical_building: UFRPE
 
-:computer: Sistemas de Informação  
-:calendar: 2011 - 2020
+- :computer: Sistemas de Informação  
+- :calendar: 2011 - 2020
 
 
 ## :earth_americas: Idiomas
