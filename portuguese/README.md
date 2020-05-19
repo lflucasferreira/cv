@@ -31,9 +31,9 @@ xxx
 
 :canada:
 
-### :classical_building: UFRPE
+### :classical_building: Universidade Federal Rural de Pernambuco (UFRPE)
 
-- :computer: Sistemas de Informação  
+- :computer: Sistemas de Informação
 - :calendar: 2011 - 2020
 
 
