@@ -5,7 +5,7 @@
 | :brazil: **Brasileiro**                | :telephone_receiver: **+55 81 99722-6092**       |
 | :birthday: **32 anos**                 | :e-mail: lucasferreira@outlook.com.br            |
 | :sparkling_heart: **Solteiro**         | :computer: www.lucasferreira.net                 |
-| :baby: **Sem filhos**                  | :round_pushpin: **Recife, PE - Brasil**          |
+| :child: **Sem filhos**                  | :round_pushpin: **Recife, PE - Brasil**          |
 
 ## Sobre mim
 
