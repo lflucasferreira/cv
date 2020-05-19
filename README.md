@@ -11,7 +11,7 @@
     </td>
     <td>
       <a href="french/README.md">
-        <img src="images/france.png" alt="French" style="width: 320px; height: auto"/>
+        <img src="images/france.png" alt="French" style="width: 120px; height: auto"/>
       </a>
       <br><br>
       <p style="text-align: center;">Mon CV en Français</p>
