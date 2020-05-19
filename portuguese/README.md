@@ -27,7 +27,7 @@ xxx
 
   - :computer: Bacharelado em Ciência da Computação
   - :airplane: Intercâmbio via CAPES - Governo Federal
-  - :calendar: 2013 - 2014
+  - :spiral_calendar: 2013 - 2014
   - :canada: Halifax, NS - Canadá
 
 <!-- Bachelor of Computer Science, BCS -->
