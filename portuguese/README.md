@@ -8,7 +8,7 @@
 | :baby: **Sem filhos**                       | :octocat: www.github.com/lflucasferreira         |
 | :man_technologist: **Engenheiro de Testes** | :round_pushpin: **Recife, PE - Brasil**          |
 
-## Sobre mim
+## :hand: Sobre mim
 
 xxx
 
