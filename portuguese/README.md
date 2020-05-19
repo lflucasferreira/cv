@@ -18,7 +18,7 @@ xxx
 
   - :office_worker: Engenheiro de Testes
   - :label: xxxx
-  - :memo: atua como engenheiro
+  - :page_with_curl: atua como engenheiro
   - :calendar: 05/2019 - Atual
   - :link: www.stefanini.com
 
