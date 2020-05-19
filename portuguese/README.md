@@ -31,9 +31,9 @@ xxx
 
 :canada:
 
-:classical_building: UFRPE  
-:computer: Sistemas de Informação  
-:calendar: 2011 - 2020
+### :classical_building: UFRPE  
+#### :computer: Sistemas de Informação  
+##### :calendar: 2011 - 2020
 
 
 ## :earth_americas: Idiomas
