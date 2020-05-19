@@ -1,8 +1,8 @@
 # Lucas Ferreira
 
-| Geral                                  | Contato                                          |
+|∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙| Contato                                          |
 |----------------------------------------|--------------------------------------------------|
-| :brazil: **Brasileiro**  ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙              | :phone: **+55 81 99722-6092**                    |
+| :brazil: **Brasileiro**                | :phone: **+55 81 99722-6092**                    |
 | :birthday: **32 anos**                 | :e-mail: lucasferreira@outlook.com.br            |
 | :cupid: **Solteiro**                   | :anchor: www.lucasferreira.net                   |
 | :baby: **Sem filhos**                  | :round_pushpin: **Recife, PE - Brasil**          |
