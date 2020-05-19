@@ -2,10 +2,10 @@
 
 | Geral                                  | Contato                                          |
 |----------------------------------------|--------------------------------------------------|
-| :brazil: **Nacionalidade**: Brasileiro | :phone: **Celular**: +55 81 99722-6092           |
-| :birthday: **Idade:** 32 anos          | :e-mail: **Email:** lucasferreira@outlook.com.br |
-| :cupid: **Estado Civil**: Solteiro     | :anchor: **Website:** www.lucasferreira.net      |
-| :baby: **Filhos:** nenhum              | :round_pushpin: **Recife, PE - Brasil**         |
+| :brazil: **Nacionalidade**: Brasileiro | :phone: **+55 81 99722-6092**                    |
+| :birthday: **Idade:** 32 anos          | :e-mail: lucasferreira@outlook.com.br            |
+| :cupid: **Estado Civil**: Solteiro     | :anchor: www.lucasferreira.net                   |
+| :baby: **Filhos:** nenhum              | :round_pushpin: **Recife, PE - Brasil**          |
 
 ## Sobre mim
 
