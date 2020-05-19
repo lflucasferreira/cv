@@ -25,7 +25,7 @@ xxx
 
 - ### :classical_building: Dalhousie University
 
-  - :art: Bacharelado em Ciência da Computação
+  - :student: Bacharelado em Ciência da Computação
   - :airplane: Intercâmbio via CAPES - Governo Federal
   - :calendar: 2013 - 2014
   - :canada: Halifax, NS - Canadá
@@ -34,7 +34,7 @@ xxx
 
 - ### :classical_building: Universidade Federal Rural de Pernambuco (UFRPE)
 
-  - :computer: Bacharelado em Sistemas de Informação
+  - :student: Bacharelado em Sistemas de Informação
   - :calendar: 2011 - 2020
   - :brazil: Recife, PE - Brasil
 
