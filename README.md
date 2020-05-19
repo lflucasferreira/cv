@@ -1,5 +1,7 @@
 # LUCAS FERREIRA
 
+## Curriculum Vitae
+
 <table>
   <tr>
     <td>
