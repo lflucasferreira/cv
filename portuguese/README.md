@@ -3,8 +3,8 @@
 |∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ | ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙        |
 |-----------------------------------------|--------------------------------------------------|
 | :brazil: **Brasileiro**                 | :telephone_receiver: **+55 81 99722-6092**       |
-| :birthday: **32 anos**                  | :e-mail: lucasferreira@outlook.com.br            |
-| :sparkling_heart: **Solteiro**          | :computer: www.lucasferreira.net                 |
+| :birthday: **32 anos**                  | :computer: www.lucasferreira.net                 |
+| :sparkling_heart: **Solteiro**          | :e-mail: lucasferreira@outlook.com.br            |
 | :baby: **Sem filhos**                   | :octocat: www.github.com/lflucasferreira         |
 | :round_pushpin: **Recife, PE - Brasil** | xxx |
 
