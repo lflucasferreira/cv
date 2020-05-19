@@ -1,6 +1,6 @@
 # Lucas Ferreira
 
-<table style="border: none;">
+<table style="border: none;" cellspacing="0" cellpadding="0">
   <tr>
     <td rowspan="6">
       <!-- <img src='../images/foto.jpg' alt='Foto' width='300'> -->
