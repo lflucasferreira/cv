@@ -67,6 +67,14 @@
   - :calendar: 06/2016 - 08/2017
   - :brazil: Recife, PE - Brasil
 
+  <hr>
+
+  - :man_office_worker: __Estágio como Analista de Suporte__
+    - :label: Soluciona tickets dos chamados técnicos de foma remota e in loco.
+    - :hammer_and_wrench: MySQL, MSSQL, Crystal Reports.
+  - :calendar: 09/2015 - 05/2016
+  - :brazil: Recife, PE - Brasil
+
 - ### :office: <a href="http://www.solutioninc.com">SolutionInc</a>
 
   - :man_office_worker: __Estágio como Analista de Testes__
