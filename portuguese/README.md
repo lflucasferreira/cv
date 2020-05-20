@@ -120,9 +120,13 @@ xxx
   - :calendar: 2018
   - :brazil: Recife, PE - Brasil
 
-## :dart: Metas
+## :dart: Objetivos
 
-xxx
+  - #### :flight_departure: Imigrar para o Canadá até 2022 :crossed_fingers:
+    - :memo: Preciso apenas da Permissão de Trabalho e de uma oferta.
+
+  - #### :man_technologist: Especializar-me em Testes de Software no Exterior.
+    - :memo: Preciso imigrar para cursar a especialização durante o período do trabalho.
 
 ## :books: Livros Favoritos
 
