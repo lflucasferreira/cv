@@ -36,12 +36,12 @@
 
 ## :raising_hand_man: Introduction
 
-> Possuo 13 anos de experiência na área de tecnologia da informação. Sendo 6 deles com Testes de Software.  
-> Nos últimos 2 anos, dediquei-me exclusivamente para Automação de Testes usando a linguagem de programação Ruby.
+> I have 13 years of experience in the Information Technology area. And 6 of them are in Software Testing.  
+> In the last 2 years, I am focused exclusively in Testing Automation using the Ruby programming language.
 
-> Fui responsável pela redução de 40% de bugs dentro de 3 anos numa das empresas que trabalhei.
+> I was responsible for reducing bugs by 40% within 3 years at one of the companies I worked for.
 
-> Meu foco é totalmente voltado para Automação de Testes de Software com linguagem exclusivamente em Ruby.
+> My focus is entirely on Software Test Automation exclusively with Ruby programming language.
 
 ## :briefcase: Professional Background
 
