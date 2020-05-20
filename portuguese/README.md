@@ -72,12 +72,19 @@
 
 - ### :us: <a href="http://www.dal.ca">English as a Second Language (ESL)</a>
 
-  - :globe_with_meridians: Fluência
+  - :globe_with_meridians: Fluente
   - :classical_building: __Dalhousie University__
   - :calendar: 09/2013 - 12/2013
   - :canada: Halifax, NS - Canadá
 
-- :fr: __Francês__: básico
+- ### :fr: <a href="http://www.ufrpe.br">Francês Básico 1 (A1)</a>
+
+  - :globe_with_meridians: Básico
+  - :classical_building: __Universidade Federal Rural de Pernambuco (UFRPE)__
+  - :clock1: 30h
+  - :calendar: 03/2013 - 07/2013
+  - :brazil: Recife, PE - Brasil
+
 - :brazil: __Português__: nativo
 
 ## :ng_man: Habilidades
