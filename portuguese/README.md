@@ -204,10 +204,10 @@
 ## :dart: Objetivos
 
 - #### :crossed_fingers: Imigrar para o Canadá até 2022.
-  - :memo: Preciso apenas da Permissão de Trabalho e de uma oferta.
+  - :pushpin: Preciso apenas da Permissão de Trabalho e de uma oferta.
 
 - #### :man_technologist: Especializar-me em Testes de Software no Exterior.
-  - :memo: Preciso imigrar para cursar a especialização durante o período do trabalho.
+  - :pushpin: Preciso imigrar para cursar a especialização durante o período do trabalho.
 
 ## :books: Livros Favoritos
 
