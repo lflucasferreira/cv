@@ -1,29 +1,29 @@
 # Lucas Ferreira
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td rowspan="6" style="border: none;">
+<table>
+  <tr>
+    <td rowspan="6">
       <!-- <img src='../images/foto.jpg' alt='Foto' width='300'> -->
       <img src='https://avatars2.githubusercontent.com/u/5920654?s=460&u=58910df8cdac7a24bba00e0be05d5fe97d6695ac&v=4' alt='Foto' width='300'>
     </td>
   </tr>
-  <tr style="border: none;">
-    <td style="border: none;">:brazil: <b>Brasileiro</b></td>
-    <td style="border: none;">:telephone_receiver: <b>+55 81 99722-6092</b></td>
+  <tr>
+    <td>:brazil: <b>Brasileiro</b></td>
+    <td>:telephone_receiver: <b>+55 81 99722-6092</b></td>
   </tr>
-  <tr style="border: none;">
+  <tr>
     <td>:birthday: <b>32 anos</b></td>
     <td>:computer: www.lucasferreira.net</td>
   </tr>
-  <tr style="border: none;">
+  <tr>
     <td>:sparkling_heart: <b>Solteiro</b></td>
     <td>:e-mail: lucasferreira@outlook.com.br</td>
   </tr>
-  <tr style="border: none;">
+  <tr>
     <td>:baby: <b>Sem filhos</b></td>
     <td>:octocat: www.github.com/lflucasferreira</td>
   </tr>
-  <tr style="border: none;">
+  <tr>
     <td>:man_technologist: <b>Engenheiro de Testes</b></td>
     <td>:round_pushpin: <b>Recife, PE - Brasil</b></td>
   </tr>
