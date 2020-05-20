@@ -68,9 +68,7 @@
 
 ## :earth_americas: Idiomas
 
-- ### :brazil: __Português__: Nativo
-
-- ### :us: __Inglês__: Fluente
+- :us: __Inglês__: Fluente
 
   <details>
     <summary>Expandir Histórico de Cursos</summary>
@@ -92,7 +90,7 @@
       - :brazil: Recife, PE - Brasil
   </details>
 
-- ### :fr: __Francês__: Básico
+- :fr: __Francês__: Básico
 
   <details>
     <summary>Expandir Histórico de Cursos</summary>
@@ -106,13 +104,7 @@
       - :brazil: Recife, PE - Brasil
   </details>
 
-<!-- - ### :us: <a href="https://mindsidiomas.com.br">Inglês 18 Meses</a>
-
-  - :globe_with_meridians: Básico ao Avançado
-  - :school: __Minds English School__
-  - :clock1: 400h
-  - :calendar: 01/2012 - 08/2013
-  - :brazil: Recife, PE - Brasil -->
+- :brazil: __Português__: Nativo
 
 ## :ng_man: Habilidades
 
