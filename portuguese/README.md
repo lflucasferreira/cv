@@ -115,6 +115,8 @@ xxx
 
 - :1st_place_medal: 1º Lugar no Desafio MV
   - :office: <a href="http://www.mv.com.br">MV Sistemas</a>
+  - :memo: O desafio foi realizado com 30 candidatos divididos em 10 turmas.
+  - :bulb: A solução para o desafio foi sugerir o Blockchain para descentralizar os dados de forma segura.
   - :calendar: 2018
 
 ## :dart: Metas
