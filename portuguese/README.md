@@ -32,7 +32,8 @@
   </tr>
   <tr>
     <td>:man_technologist: <b>Engenheiro de Testes</b></td>
-    <td>:round_pushpin: <b>Recife, PE - Brasil</b></td>
+    <!-- <td>:round_pushpin: <b>Recife, PE - Brasil</b></td> -->
+    <td><img src="../images/linkedin.png"> www.linkedin.com/in/lflucasferreira</td>
   </tr>
 </table>
 
@@ -54,8 +55,8 @@
 - ### :office: Stefanini Document Solutions
 
   - :man_office_worker: Engenheiro de Testes
-    - :label: Automatiza Testes de Software na linguagem Ruby
-    - :hammer_and_wrench: BDD, Jenkins, Docker
+    - :label: Automatiza Testes de Software na linguagem Ruby [API REST + Web + Mobile]
+    - :hammer_and_wrench: TDD, BDD, MySQL, MSSQL, Postman, RSpec, Ruby, Docker, Jenkins.
   - :calendar: 05/2019 - Atual
   - :link: www.stefanini.com
 
