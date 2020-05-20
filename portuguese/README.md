@@ -3,17 +3,12 @@
 <table>
   <tr>
     <td rowspan="7">
-      <!-- <img src='../images/foto.jpg' alt='Foto' width='300'> -->
       <img src='https://avatars2.githubusercontent.com/u/5920654?s=460&u=58910df8cdac7a24bba00e0be05d5fe97d6695ac&v=4' alt='Foto' width='320'>
     </td>
   </tr>
   <tr>
-    <!-- <td>∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td>
-    <td>∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td> -->
     <td colspan="2">
       <h1>LUCAS FERREIRA DA SILVA</h1>
-      <!-- :round_pushpin: <b>Recife, PE - Brasil</b> -->
-      <!-- <img src="../images/linkedin.png"> www.linkedin.com/in/lflucasferreira -->
       <h3>Engenheiro de Testes de Software</h3>
     </td>
   </tr>
@@ -39,14 +34,6 @@
   </tr>
 </table>
 
-<!-- |∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙     | ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙        |
-|---------------------------------------------|--------------------------------------------------|
-| :brazil: **Brasileiro**                     | :telephone_receiver: **+55 81 99722-6092**       |
-| :birthday: **32 anos**                      | :computer: www.lucasferreira.net                 |
-| :sparkling_heart: **Solteiro**              | :e-mail: lucasferreira@outlook.com.br            |
-| :baby: **Sem filhos**                       | :octocat: www.github.com/lflucasferreira         |
-| :man_technologist: **Engenheiro de Testes** | :round_pushpin: **Recife, PE - Brasil**          | -->
-
 ## :raising_hand_man: Sobre mim
 
 > Possuo 13 anos de experiência na área de tecnologia da informação. Sendo 6 deles com Testes de Software.  
@@ -60,17 +47,21 @@
     - :label: Automatiza Testes de Software na linguagem Ruby [API REST + Web + Mobile]
     - :hammer_and_wrench: TDD, BDD, MySQL, MSSQL, Postman, RSpec, Ruby, Docker, Jenkins.
   - :calendar: 05/2019 - Atual
-  <!-- - :link: www.stefanini.com -->
 
 ## :mortar_board: Formação Acadêmica
-
-<!-- :closed_book: :green_book: :blue_book: :orange_book: -->
 
 - ### :classical_building: <a href="http://www.dal.ca">Dalhousie University</a>
 
   - :man_student: __Bacharelado em Ciência da Computação__
-    - :airplane: Intercâmbio via CAPES - Governo Federal
+    - :airplane: Intercâmbio via CAPES - Governo Federal do Brasil
   - :calendar: 09/2013 - 12/2014
+  - :canada: Halifax, NS - Canadá
+
+- ### :school: <a href="http://www.dal.ca">Dalhousie University</a>
+
+  - :man_student: __English as a Second Language - Dalhousie ESL__
+    - :airplane: Intercâmbio via CAPES - Governo Federal do Brasil
+  - :calendar: 09/2013 - 12/2013
   - :canada: Halifax, NS - Canadá
 
 <!-- Bachelor of Computer Science, BCS -->
