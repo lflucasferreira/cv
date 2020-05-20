@@ -110,10 +110,10 @@
 
 <details>
   <summary>Linguagens de Programação:</summary>
-- Ruby
-- Python
-- JavaScript
-- Java
+    - Ruby
+    - Python
+    - JavaScript
+    - Java
 </details>
 
 <details>
