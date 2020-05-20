@@ -70,10 +70,10 @@
 
 <!-- - :us: __Inglês__: fluente -->
 
-- ### :us: <a href="http://www.dal.ca">Dalhousie University - ESL</a>
+- ### :us: <a href="http://www.dal.ca">English as a Second Language (ESL)</a>
 
-  - :man_student: __English as a Second Language__
-    - :airplane: Intercâmbio via CAPES - Governo Federal do Brasil
+  - :globe_with_meridians: Fluência
+  - :classical_building: __Dalhousie University__
   - :calendar: 09/2013 - 12/2013
   - :canada: Halifax, NS - Canadá
 
