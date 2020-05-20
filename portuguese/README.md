@@ -126,8 +126,8 @@ xxx
 
 ## :books: Livros Favoritos
 
-  - :book: Linux - A Bíblia
-    - Autor: Negus Bresnahan
+  - ### :book: Linux - A Bíblia
+    - Autor: __Negus Bresnahan__
 
 ## :warning: Observações
 
