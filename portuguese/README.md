@@ -123,11 +123,16 @@
 
 <details>
   <summary>Testes:</summary>
-  - RSpec
-  - Capybara
-  - Cucumber
-  - HTTParty (API)
-  - Appium
+  <br>
+  <table>
+    <tr>
+      <td>Appium</td>
+      <td>Capybara</td>
+      <td>Cucumber</td>
+      <td>RSpec</td>
+      <td>HTTParty (API)</td>
+    </tr>
+  </table>
 </details>
 
 <details>
