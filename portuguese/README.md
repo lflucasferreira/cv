@@ -73,7 +73,7 @@
 - ### :us: <a href="http://www.dal.ca">English as a Second Language (ESL)</a>
 
   - :globe_with_meridians: Acadêmico
-  - :classical_building: __Dalhousie University__
+  - :school: __Dalhousie University__
   - :clock1: 60h
   - :calendar: 09/2013 - 12/2013
   - :canada: Halifax, NS - Canadá
@@ -81,7 +81,7 @@
 - ### :fr: <a href="http://www.ufrpe.br">Francês Básico 1 (A1)</a>
 
   - :globe_with_meridians: Básico
-  - :classical_building: __Universidade Federal Rural de Pernambuco (UFRPE)__
+  - :school: __Universidade Federal Rural de Pernambuco (UFRPE)__
   - :clock1: 30h
   - :calendar: 03/2013 - 07/2013
   - :brazil: Recife, PE - Brasil
@@ -89,7 +89,7 @@
 - ### :us: <a href="https://mindsidiomas.com.br">Inglês 18 Meses</a>
 
   - :globe_with_meridians: Básico ao Avançado
-  - :classical_building: __Minds English School__
+  - :school: __Minds English School__
   - :clock1: 400h
   - :calendar: 01/2012 - 08/2013
   - :brazil: Recife, PE - Brasil
