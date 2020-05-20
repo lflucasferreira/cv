@@ -11,7 +11,7 @@
     <!-- <td>∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td>
     <td>∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td> -->
     <td colspan="2">
-      <h1>Lucas Ferreira da Silva</h1>
+      <h1>LUCAS FERREIRA DA SILVA</h1>
       <!-- :round_pushpin: <b>Recife, PE - Brasil</b> -->
       <!-- <img src="../images/linkedin.png"> www.linkedin.com/in/lflucasferreira -->
       <h3>Engenheiro de Testes</h3>
