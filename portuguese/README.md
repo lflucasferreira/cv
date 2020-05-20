@@ -35,7 +35,7 @@
   <tr>
     <td>:man_technologist: <b>Engenheiro de Testes</b></td>
     <td>:round_pushpin: <b>Recife, PE - Brasil</b></td>
-    <td><img src="../images/linkedin.png"> www.linkedin.com/in/lflucasferreira</td>
+    <!-- <td><img src="../images/linkedin.png"> www.linkedin.com/in/lflucasferreira</td> -->
   </tr>
 </table>
 
