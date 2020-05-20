@@ -59,6 +59,8 @@
   - :calendar: 09/2017 - 05/2019
   - :brazil: Recife, PE - Brasil
 
+  <hr>
+
   - :man_office_worker: __Estágio como Analista de Testes__
     - :label: Realiza Testes Manuais e Exploratórios [Web + Desktop]
     - :hammer_and_wrench: MySQL, MSSQL, PHP, Laravel, Crystal Reports.
