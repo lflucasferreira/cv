@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>:birthday: <b>32 anos</b></td>
-    <td>:computer: lucasferreira.net</td>
+    <td>:computer: www.lucasferreira.net</td>
   </tr>
   <tr>
     <td>:sparkling_heart: <b>Solteiro</b></td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>:baby: <b>Sem filhos</b></td>
-    <td>:octocat: github.com/lflucasferreira</td>
+    <td>:octocat: www.github.com/lflucasferreira</td>
   </tr>
   <tr>
     <td>:man_technologist: <b>Engenheiro de Testes</b></td>
