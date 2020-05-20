@@ -14,7 +14,7 @@
       <h1>LUCAS FERREIRA DA SILVA</h1>
       <!-- :round_pushpin: <b>Recife, PE - Brasil</b> -->
       <!-- <img src="../images/linkedin.png"> www.linkedin.com/in/lflucasferreira -->
-      <h3>Engenheiro de Testes</h3>
+      <h3>Engenheiro de Testes de Software</h3>
     </td>
   </tr>
   <tr>
