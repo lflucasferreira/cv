@@ -123,15 +123,15 @@
 
 - Testes:
 
-<table>
-  <tr>
-    <td>Appium</td>
-    <td>Capybara</td>
-    <td>Cucumber</td>
-    <td>RSpec</td>
-    <td>HTTParty (API)</td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td>Appium</td>
+      <td>Capybara</td>
+      <td>Cucumber</td>
+      <td>RSpec</td>
+      <td>HTTParty (API)</td>
+    </tr>
+  </table>
 
 <details>
   <summary>Bancos de Dados:</summary>
