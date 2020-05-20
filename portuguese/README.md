@@ -12,7 +12,8 @@
     <td>∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td> -->
     <td colspan="2">
       <h1>Lucas Ferreira da Silva</h1>
-      :round_pushpin: <b>Recife, PE - Brasil</b>
+      <!-- :round_pushpin: <b>Recife, PE - Brasil</b> -->
+      <img src="../images/linkedin.png"> www.linkedin.com/in/lflucasferreira
     </td>
   </tr>
   <tr>
@@ -33,7 +34,7 @@
   </tr>
   <tr>
     <td>:man_technologist: <b>Engenheiro de Testes</b></td>
-    <!-- <td>:round_pushpin: <b>Recife, PE - Brasil</b></td> -->
+    <td>:round_pushpin: <b>Recife, PE - Brasil</b></td>
     <td><img src="../images/linkedin.png"> www.linkedin.com/in/lflucasferreira</td>
   </tr>
 </table>
