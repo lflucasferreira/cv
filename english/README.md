@@ -194,27 +194,27 @@
 
 ## :trophy: Achievements
 
-- :1st_place_medal: 1º place at Desafio MV
+- :1st_place_medal: 1º place at Challenge MV
   - :office: <a href="http://www.mv.com.br">MV Sistemas</a>
-  - :bookmark: O desafio foi realizado com 30 candidatos divididos em 10 equipes de 3, cada.
-  - :bulb: A solução para o desafio foi sugerir o Blockchain para descentralizar os dados de forma segura.
+  - :bookmark: The challenge was carried out with 30 candidates divided into 10 teams of 3, each.
+  - :bulb: The solution to this challenge was to suggest the Blockchain in order to decentralize the data in a secure way.
   - :calendar: 2018
   - :brazil: Recife, PE - Brazil
 
 ## :dart: Goals
 
-- #### :pushpin: Imigrar para o Canada até 2022.
-  - :crossed_fingers: Preciso apenas da Permissão de Trabalho e de uma oferta.
+- #### :pushpin: Immigrate to Canada until 2022.
+  - :crossed_fingers: I just need to get the Work Permit and a job offer.
 
-- #### :pushpin: Especializar-me em Testes de Software no Exterior.
-  - :man_technologist: Após a imigração, cursar uma especialização durante o período do trabalho.
+- #### :pushpin: Specialize in Software Testing while Abroad.
+  - :man_technologist: After immigration, I will take a specialization during the work period.
 
 ## :books: Favorite Books
 
-- #### :book: Linux - A Bíblia
+- #### :book: Linux - Bible
   - :rocket: __Negus Bresnahan__
 
-- #### :book: Scrum - A Arte de Fazer o Dobro do Trabalho na Metade do Tempo
+- #### :book: Scrum - The Art of Doing Twice the Work in Half the Time
   - :rocket: __Jeff Sutherland__
 
 ## :warning: Notes
