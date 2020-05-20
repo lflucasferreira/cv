@@ -1,4 +1,4 @@
-<p style="text-align: center;">Curriculum Vitae</p>
+# Curriculum Vitae
 
 <table>
   <tr>
@@ -8,11 +8,11 @@
     </td>
   </tr>
   <tr>
-    <!-- <td>∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td>
-    <td>∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td> -->
-    <td colspan="2">
+    <td>∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td>
+    <td>∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td>
+    <!-- <td colspan="2">
       <h1>Lucas Ferreira da Silva</h1>
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td>:brazil: <b>Brasileiro</b></td>
