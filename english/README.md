@@ -89,16 +89,16 @@
 
 - ### :classical_building: <a href="http://www.dal.ca">Dalhousie University</a>
 
-  - :man_student: __Bacharelado em Ciência da Computação__
-    - :airplane: Intercâmbio via CAPES - Governo Federal do Brazil
+  - :man_student: __Bachelor of Computer Science, BCS__
+    - :airplane: Exchange via CAPES - Brazilian Federal Government
   - :calendar: 09/2013 - 12/2014
   - :canada: Halifax, NS - Canada
 
 <!-- Bachelor of Computer Science, BCS -->
 
-- ### :classical_building: <a href="http://www.ufrpe.br">Universidade Federal Rural de Pernambuco (UFRPE)</a>
+- ### :classical_building: <a href="http://www.ufrpe.br">Federal Rural University of Pernambuco (original acronym UFRPE)</a>
 
-  - :man_student: __Bacharelado em Sistemas de Informação__
+  - :man_student: __Bachelor of Information Systems__
   - :calendar: 2011 - 2020
   - :brazil: Recife, PE - Brazil
 
@@ -107,19 +107,19 @@
 - :us: __English__: Fluent
 
   <details open>
-    <summary>Clique para expandir/recolher lista de cursos</summary>
+    <summary>Click to expand/shrink the courses list</summary>
 
     - #### :us: <a href="http://www.dal.ca">English as a Second Language (ESL)</a>
 
-      - :globe_with_meridians: Acadêmico
+      - :globe_with_meridians: Academic
       - :school: __Dalhousie University__
       - :clock1: 60h
       - :calendar: 09/2013 - 12/2013
       - :canada: Halifax, NS - Canada
 
-    - #### :us: <a href="https://mindsidiomas.com.br">Inglês 18 Meses</a>
+    - #### :us: <a href="https://mindsidiomas.com.br">English in 18 Months</a>
 
-      - :globe_with_meridians: Básico ao Avançado
+      - :globe_with_meridians: Basics to Advanced
       - :school: __Minds English School__
       - :clock1: 400h
       - :calendar: 01/2012 - 08/2013
@@ -129,12 +129,12 @@
 - :fr: __French__: Basics
 
   <details open>
-    <summary>Clique para expandir/recolher lista de cursos</summary>
+    <summary>Click to expand/shrink the courses list</summary>
 
-    - ### :fr: <a href="http://www.ufrpe.br">Francês Básico 1 (A1)</a>
+    - ### :fr: <a href="http://www.ufrpe.br">Basic French 1 (A1)</a>
 
-      - :globe_with_meridians: Básico
-      - :school: __Universidade Federal Rural de Pernambuco (UFRPE)__
+      - :globe_with_meridians: Basics
+      - :school: __Federal Rural University of Pernambuco (UFRPE)__
       - :clock1: 30h
       - :calendar: 03/2013 - 07/2013
       - :brazil: Recife, PE - Brazil
