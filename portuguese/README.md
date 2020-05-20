@@ -54,7 +54,7 @@
 
 ## :briefcase: Experiência Profissional
 
-- ### :office: Stefanini Document Solutions
+- ### :office: Stefanini Document Solutions (:link: www.stefanini.com)
 
   - :man_office_worker: Engenheiro de Testes
     - :label: Automatiza Testes de Software na linguagem Ruby [API REST + Web + Mobile]
