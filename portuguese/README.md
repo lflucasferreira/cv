@@ -108,7 +108,7 @@
 
 ## :ng_man: Habilidades
 
-    :warning: Cada seção está disposta da seguinte forma: do mais conhecido/utilizado para o menos.
+  :warning: Cada seção está disposta da seguinte forma: do mais conhecido/utilizado para o menos.
 
 - Linguagens de Programação:
 
