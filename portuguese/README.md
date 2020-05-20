@@ -129,7 +129,7 @@ xxx
   - #### :book: Linux - A Bíblia
     - :rocket: __Negus Bresnahan__
 
-  - #### :book: Scrum
+  - #### :book: Scrum - A Arte de Fazer o Dobro do Trabalho na Metade do Tempo
     - :rocket: __Jeff Sutherland__
 
 ## :warning: Observações
