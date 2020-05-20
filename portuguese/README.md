@@ -57,9 +57,9 @@
   - :calendar: 09/2013 - 12/2014
   - :canada: Halifax, NS - Canadá
 
-- ### :school: <a href="http://www.dal.ca">Dalhousie University</a>
+- ### :school: <a href="http://www.dal.ca">Dalhousie University - ESL</a>
 
-  - :man_student: __English as a Second Language - Dalhousie ESL__
+  - :man_student: __English as a Second Language__
     - :airplane: Intercâmbio via CAPES - Governo Federal do Brasil
   - :calendar: 09/2013 - 12/2013
   - :canada: Halifax, NS - Canadá
