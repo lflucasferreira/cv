@@ -56,6 +56,8 @@
 
 - ### :office: <a href="http://www.stefanini.com" target="_blank">Stefanini Document Solutions</a>
 
+<a href="http://www.stefanini.com" target="_blank">Stefanini Document Solutions</a>
+
   - :man_office_worker: Engenheiro de Testes
     - :label: Automatiza Testes de Software na linguagem Ruby [API REST + Web + Mobile]
     - :hammer_and_wrench: TDD, BDD, MySQL, MSSQL, Postman, RSpec, Ruby, Docker, Jenkins.
