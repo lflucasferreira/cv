@@ -118,6 +118,7 @@ xxx
   - :memo: O desafio foi realizado com 30 candidatos divididos em 10 turmas.
   - :bulb: A solução para o desafio foi sugerir o Blockchain para descentralizar os dados de forma segura.
   - :calendar: 2018
+  - :brazil: Recife, PE - Brasil
 
 ## :dart: Metas
 
