@@ -110,6 +110,7 @@
 
 <details>
   <summary>Linguagens de Programação:</summary>
+  <br>
   <table>
     <tr>
       <td>Ruby</td>
