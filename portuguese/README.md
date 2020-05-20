@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td rowspan="7">
-      <!-- <img src='../images/foto.jpg' alt='Foto' width='300'> -->
-      <img src='https://avatars2.githubusercontent.com/u/5920654?s=460&u=58910df8cdac7a24bba00e0be05d5fe97d6695ac&v=4' alt='Foto' width='300'>
+      <img src='../images/foto.jpg' alt='Foto' width='300'>
+      <!-- <img src='https://avatars2.githubusercontent.com/u/5920654?s=460&u=58910df8cdac7a24bba00e0be05d5fe97d6695ac&v=4' alt='Foto' width='300'> -->
     </td>
   </tr>
   <tr>
