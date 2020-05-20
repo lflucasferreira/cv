@@ -129,6 +129,9 @@ xxx
   - #### :book: Linux - A Bíblia
     - :rocket: __Negus Bresnahan__
 
+  - #### :book: Scrum
+    - :rocket: __Jeff Sutherland__
+
 ## :warning: Observações
 
     Atualizado em: 19 de Maio de 2020.
