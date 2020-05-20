@@ -56,7 +56,7 @@
 
 - ### :office: <a href="http://www.stefanini.com">Stefanini Document Solutions</a>
 
-  - :man_office_worker: Engenheiro de Testes
+  - :man_office_worker: __Engenheiro de Testes__
     - :label: Automatiza Testes de Software na linguagem Ruby [API REST + Web + Mobile]
     - :hammer_and_wrench: TDD, BDD, MySQL, MSSQL, Postman, RSpec, Ruby, Docker, Jenkins.
   - :calendar: 05/2019 - Atual
@@ -68,8 +68,8 @@
 
 - ### :classical_building: <a href="http://www.dal.ca">Dalhousie University</a>
 
-  - :man_student: Bacharelado em Ciência da Computação
-  - :airplane: Intercâmbio via CAPES - Governo Federal
+  - :man_student: Bacharelado em __Ciência da Computação__
+    - :airplane: Intercâmbio via CAPES - Governo Federal
   - :calendar: 09/2013 - 12/2014
   - :canada: Halifax, NS - Canadá
 
@@ -77,16 +77,16 @@
 
 - ### :classical_building: <a href="http://www.ufrpe.br">Universidade Federal Rural de Pernambuco (UFRPE)</a>
 
-  - :man_student: Bacharelado em Sistemas de Informação
+  - :man_student: __Bacharelado em Sistemas de Informação__
   - :calendar: 2011 - 2020
   - :brazil: Recife, PE - Brasil
 
 
 ## :earth_americas: Idiomas
 
-- :us: **Inglês**: fluente
-- :fr: **Francês**: básico
-- :brazil: **Português**: nativo
+- :us: __Inglês__: fluente
+- :fr: __Francês__: básico
+- :brazil: __Português__: nativo
 
 ## :ng_man: Habilidades
 
