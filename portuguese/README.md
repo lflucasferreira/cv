@@ -39,7 +39,9 @@
 > Possuo 13 anos de experiência na área de tecnologia da informação. Sendo 6 deles com Testes de Software.  
 > Nos últimos 2 anos, dediquei-me exclusivamente para Automação de Testes usando a linguagem de programação Ruby.
 
-> 
+> Fui responsável pela redução de 40% de bugs dentro de 3 anos numa das empresas que trabalhei.
+
+> Meu foco é totalmente voltado para Automação de Testes de Software com linguagem exclusivamente em Ruby.
 
 ## :briefcase: Experiência Profissional
 
