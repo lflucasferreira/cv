@@ -110,11 +110,6 @@
 
 <details>
   <summary>Linguagens de Programação:</summary>
-    - Ruby
-    - Python
-    - JavaScript
-    - Java
-
   <table>
     <tr>
       <td>Ruby</td>
