@@ -131,6 +131,4 @@ xxx
 
 ## :warning: Observações
 
-xxx
-
-<pre>Atualizado em: 19 de Maio de 2020.</pre>
+    Atualizado em: 19 de Maio de 2020.
