@@ -48,23 +48,23 @@
 - ### :office: <a href="http://www.stefanini.com">Stefanini Document Solutions</a>
 
   - :man_office_worker: __QA Test Engineer__
-    - :label: Automatiza Testes de Software na linguagem Ruby [API REST + Web + Mobile]
+    - :label: Automates Software Testing with Ruby [API REST + Web + Mobile]
     - :hammer_and_wrench: TDD, BDD, MySQL, MSSQL, Postman, RSpec, Ruby, Docker, Jenkins.
   - :calendar: 05/2019 - Current
   - :brazil: Recife, PE - Brazil
 
 - ### :office: <a href="http://www.qualinfo.com.br">Qualinfo Tecnologia</a>
 
-  - :man_office_worker: __Analista de Testes__
-    - :label: Realiza Testes Manuais e Exploratórios [Web + Desktop]
+  - :man_office_worker: __QA Analyst__
+    - :label: Conducts Manual and Exploratory Tests [Web + Desktop]
     - :hammer_and_wrench: MySQL, MSSQL, PHP, Laravel, Crystal Reports.
   - :calendar: 09/2017 - 05/2019
   - :brazil: Recife, PE - Brazil
 
   <hr>
 
-  - :man_office_worker: __Estágio como Analista de Testes__
-    - :label: Realiza Testes Manuais e Exploratórios [Web + Desktop]
+  - :man_office_worker: __QA Analyst Intern__
+    - :label: Conducts Manual and Exploratory Tests [Web + Desktop]
     - :hammer_and_wrench: MySQL, MSSQL, PHP, Laravel, Crystal Reports.
   - :calendar: 06/2016 - 08/2017
   - :brazil: Recife, PE - Brazil
