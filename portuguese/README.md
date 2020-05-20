@@ -92,13 +92,19 @@
       - :brazil: Recife, PE - Brasil
   </details>
 
-- ### :fr: <a href="http://www.ufrpe.br">Francês Básico 1 (A1)</a>
+- ### :us: __Francês__: Básico</a>
 
-  - :globe_with_meridians: Básico
-  - :school: __Universidade Federal Rural de Pernambuco (UFRPE)__
-  - :clock1: 30h
-  - :calendar: 03/2013 - 07/2013
-  - :brazil: Recife, PE - Brasil
+  <details>
+    <summary>Expandir Histórico de Cursos</summary>
+
+    - ### :fr: <a href="http://www.ufrpe.br">Francês Básico 1 (A1)</a>
+
+      - :globe_with_meridians: Básico
+      - :school: __Universidade Federal Rural de Pernambuco (UFRPE)__
+      - :clock1: 30h
+      - :calendar: 03/2013 - 07/2013
+      - :brazil: Recife, PE - Brasil
+  </details>
 
 <!-- - ### :us: <a href="https://mindsidiomas.com.br">Inglês 18 Meses</a>
 
