@@ -57,13 +57,6 @@
   - :calendar: 09/2013 - 12/2014
   - :canada: Halifax, NS - Canadá
 
-- ### :school: <a href="http://www.dal.ca">Dalhousie University - ESL</a>
-
-  - :man_student: __English as a Second Language__
-    - :airplane: Intercâmbio via CAPES - Governo Federal do Brasil
-  - :calendar: 09/2013 - 12/2013
-  - :canada: Halifax, NS - Canadá
-
 <!-- Bachelor of Computer Science, BCS -->
 
 - ### :classical_building: <a href="http://www.ufrpe.br">Universidade Federal Rural de Pernambuco (UFRPE)</a>
@@ -75,7 +68,15 @@
 
 ## :earth_americas: Idiomas
 
-- :us: __Inglês__: fluente
+<!-- - :us: __Inglês__: fluente -->
+
+- ### :us: <a href="http://www.dal.ca">Dalhousie University - ESL</a>
+
+  - :man_student: __English as a Second Language__
+    - :airplane: Intercâmbio via CAPES - Governo Federal do Brasil
+  - :calendar: 09/2013 - 12/2013
+  - :canada: Halifax, NS - Canadá
+
 - :fr: __Francês__: básico
 - :brazil: __Português__: nativo
 
