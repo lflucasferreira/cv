@@ -65,7 +65,6 @@
   - :calendar: 2011 - 2020
   - :brazil: Recife, PE - Brasil
 
-
 ## :earth_americas: Idiomas
 
 - :us: __Inglês__: Fluente
@@ -109,7 +108,32 @@
 
 ## :ng_man: Habilidades
 
-xxx
+- Linguagens de Programação:
+  - Ruby
+  - Python
+  - JavaScript
+  - Java
+
+- Testes:
+  - RSpec
+  - Capybara
+  - Cucumber
+  - HTTParty (API)
+  - Appium
+
+- Bancos de Dados:
+  - MySQL
+  - Microsoft SQL Server
+  - PostgreSQL
+  - Redis
+  - MongoDB
+  - Oracle
+
+- DevOps
+  - Git
+  - Linux
+  - Docker
+  - Jenkins
 
 ## :trophy: Conquistas
 
@@ -122,19 +146,19 @@ xxx
 
 ## :dart: Objetivos
 
-  - #### :flight_departure: Imigrar para o Canadá até 2022 :crossed_fingers:
-    - :memo: Preciso apenas da Permissão de Trabalho e de uma oferta.
+- #### :flight_departure: Imigrar para o Canadá até 2022. :crossed_fingers:
+  - :memo: Preciso apenas da Permissão de Trabalho e de uma oferta.
 
-  - #### :man_technologist: Especializar-me em Testes de Software no Exterior.
-    - :memo: Preciso imigrar para cursar a especialização durante o período do trabalho.
+- #### :man_technologist: Especializar-me em Testes de Software no Exterior.
+  - :memo: Preciso imigrar para cursar a especialização durante o período do trabalho.
 
 ## :books: Livros Favoritos
 
-  - #### :book: Linux - A Bíblia
-    - :rocket: __Negus Bresnahan__
+- #### :book: Linux - A Bíblia
+  - :rocket: __Negus Bresnahan__
 
-  - #### :book: Scrum - A Arte de Fazer o Dobro do Trabalho na Metade do Tempo
-    - :rocket: __Jeff Sutherland__
+- #### :book: Scrum - A Arte de Fazer o Dobro do Trabalho na Metade do Tempo
+  - :rocket: __Jeff Sutherland__
 
 ## :warning: Observações
 
