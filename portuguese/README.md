@@ -76,7 +76,7 @@
   <table>
     <tr>
       <td>
-      - #### :us: <a href="http://www.dal.ca">English as a Second Language (ESL)</a>
+      - :us: <a href="http://www.dal.ca">English as a Second Language (ESL)</a>
 
         - :globe_with_meridians: Acadêmico
         - :school: __Dalhousie University__
@@ -85,7 +85,7 @@
         - :canada: Halifax, NS - Canadá
       </td>
       <td>
-      - #### :us: <a href="https://mindsidiomas.com.br">Inglês 18 Meses</a>
+      - :us: <a href="https://mindsidiomas.com.br">Inglês 18 Meses</a>
 
         - :globe_with_meridians: Básico ao Avançado
         - :school: __Minds English School__
