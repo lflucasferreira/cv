@@ -108,6 +108,8 @@
 
 ## :ng_man: Habilidades
 
+:warning: Cada seção está disposta da seguinte forma: do mais conhecido/utilizado para o menos.
+
 - Linguagens de Programação:
 
   <table>
@@ -144,13 +146,16 @@
     </tr>
   </table>
 
-<details>
-  <summary>DevOps:</summary>
-  - Git
-  - Linux
-  - Docker
-  - Jenkins
-</details>
+- DevOps:
+
+  <table>
+    <tr>
+      <td>Git</td>
+      <td>Linux</td>
+      <td>Docker</td>
+      <td>Jenkins</td>
+    </tr>
+  </table>
 
 ## :trophy: Conquistas
 
