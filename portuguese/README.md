@@ -106,6 +106,8 @@
 
 - :brazil: __Português__: Nativo
 
+- :es: __Espanhol__: Básico
+
 ## :ng_man: Habilidades
 
 xxx
