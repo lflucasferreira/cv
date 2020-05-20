@@ -203,7 +203,7 @@
 
 ## :dart: Objetivos
 
-- #### :flight_departure: Imigrar para o Canadá até 2022. :crossed_fingers:
+- #### :crossed_fingers: Imigrar para o Canadá até 2022.
   - :memo: Preciso apenas da Permissão de Trabalho e de uma oferta.
 
 - #### :man_technologist: Especializar-me em Testes de Software no Exterior.
