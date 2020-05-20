@@ -106,7 +106,7 @@
 
 - :us: __Inglês__: Fluente
 
-  <details>
+  <details open>
     <summary>Expandir Histórico de Cursos</summary>
 
     - #### :us: <a href="http://www.dal.ca">English as a Second Language (ESL)</a>
@@ -128,7 +128,7 @@
 
 - :fr: __Francês__: Básico
 
-  <details>
+  <details open>
     <summary>Expandir Histórico de Cursos</summary>
 
     - ### :fr: <a href="http://www.ufrpe.br">Francês Básico 1 (A1)</a>
