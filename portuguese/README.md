@@ -72,7 +72,7 @@
   <hr>
 
   - :man_office_worker: __Estágio como Analista de Suporte__
-    - :label: Soluciona tickets dos chamados técnicos de foma remota e in loco.
+    - :label: Soluciona chamados técnicos de forma remota e in loco.
     - :hammer_and_wrench: MySQL, MSSQL, Crystal Reports.
   - :calendar: 09/2015 - 05/2016
   - :brazil: Recife, PE - Brasil
@@ -81,7 +81,7 @@
 
   - :man_office_worker: __Estágio como Analista de Testes__
     - :label: Realiza Testes Manuais e Exploratórios [Web + Mobile]
-    - :hammer_and_wrench: Linux, Redes de Comunicação, Documentação e Gerenciamento de Casos de Testes.
+    - :hammer_and_wrench: Linux, Redes de Comunicação, Documentação e Gerenciamento de Casos de Teste.
   - :calendar: 05/2014 - 09/2014
   - :canada: Halifax, NS - Canadá
 

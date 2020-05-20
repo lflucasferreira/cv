@@ -71,17 +71,17 @@
 
   <hr>
 
-  - :man_office_worker: __Estágio como Analista de Suporte__
-    - :label: Soluciona tickets dos chamados técnicos de foma remota e in loco.
+  - :man_office_worker: __Support Analyst Intern__
+    - :label: Solves technical tickets remotely and on site.
     - :hammer_and_wrench: MySQL, MSSQL, Crystal Reports.
   - :calendar: 09/2015 - 05/2016
   - :brazil: Recife, PE - Brazil
 
 - ### :office: <a href="http://www.solutioninc.com">SolutionInc</a>
 
-  - :man_office_worker: __Estágio como Analista de Testes__
-    - :label: Realiza Testes Manuais e Exploratórios [Web + Mobile]
-    - :hammer_and_wrench: Linux, Redes de Comunicação, Documentação e Gerenciamento de Casos de Testes.
+  - :man_office_worker: __QA Tester Intern__
+    - :label: Conducts Manual and Exploratory Tests [Web + Mobile]
+    - :hammer_and_wrench: Linux, Networking, Test Cases Documentation and Management.
   - :calendar: 05/2014 - 09/2014
   - :canada: Halifax, NS - Canada
 
