@@ -207,7 +207,7 @@
   - :crossed_fingers: Preciso apenas da Permissão de Trabalho e de uma oferta.
 
 - #### :pushpin: Especializar-me em Testes de Software no Exterior.
-  - :man_technologist: Preciso imigrar para cursar a especialização durante o período do trabalho.
+  - :man_technologist: Após a imigração, cursar uma especialização durante o período do trabalho.
 
 ## :books: Livros Favoritos
 
