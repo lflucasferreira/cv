@@ -39,6 +39,8 @@
 > Possuo 13 anos de experiência na área de tecnologia da informação. Sendo 6 deles com Testes de Software.  
 > Nos últimos 2 anos, dediquei-me exclusivamente para Automação de Testes usando a linguagem de programação Ruby.
 
+> 
+
 ## :briefcase: Experiência Profissional
 
 - ### :office: <a href="http://www.stefanini.com">Stefanini Document Solutions</a>
@@ -55,6 +57,12 @@
     - :label: Realiza Testes Manuais e Exploratórios [Web + Desktop]
     - :hammer_and_wrench: MySQL, MSSQL, PHP, Laravel, Crystal Reports.
   - :calendar: 09/2017 - 05/2019
+  - :brazil: Recife, PE - Brasil
+
+  - :man_office_worker: __Estágio como Analista de Testes__
+    - :label: Realiza Testes Manuais e Exploratórios [Web + Desktop]
+    - :hammer_and_wrench: MySQL, MSSQL, PHP, Laravel, Crystal Reports.
+  - :calendar: 06/2016 - 08/2017
   - :brazil: Recife, PE - Brasil
 
 - ### :office: <a href="http://www.solutioninc.com">SolutionInc</a>
@@ -199,4 +207,4 @@
 
 ## :warning: Observações
 
-    Atualizado em: 19 de Maio de 2020.
+    Atualizado em: 20 de Maio de 2020.
