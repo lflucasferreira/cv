@@ -8,8 +8,9 @@
     </td>
   </tr>
   <tr>
-    <td>∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td>
-    <td>∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td>
+    <!-- <td>∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td>
+    <td>∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td> -->
+    <td colspan="2">Lucas Ferreira da Silva</td>
   </tr>
   <tr>
     <td>:brazil: <b>Brasileiro</b></td>
