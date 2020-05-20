@@ -113,7 +113,9 @@ xxx
 
 ## :trophy: Conquistas
 
-xxx
+- :1st_place_medal: Desafio MV
+  - posição: 1º Lugar
+  - :calendar: 2018
 
 ## :dart: Metas
 
