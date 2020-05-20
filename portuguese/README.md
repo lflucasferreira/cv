@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Curriculum Vitae</h1>
+<p style="text-align: center;">Curriculum Vitae</p>
 
 <table>
   <tr>
