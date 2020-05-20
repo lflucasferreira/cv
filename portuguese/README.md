@@ -68,9 +68,9 @@
 
 ## :earth_americas: Idiomas
 
-<!-- - :us: __Inglês__: fluente -->
+- ### :brazil: __Português__: Nativo
 
-- ### :us: __Inglês__: Fluente</a>
+- ### :us: __Inglês__: Fluente
 
   <details>
     <summary>Expandir Histórico de Cursos</summary>
@@ -92,7 +92,7 @@
       - :brazil: Recife, PE - Brasil
   </details>
 
-- ### :us: __Francês__: Básico</a>
+- ### :fr: __Francês__: Básico
 
   <details>
     <summary>Expandir Histórico de Cursos</summary>
