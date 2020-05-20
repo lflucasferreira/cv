@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-## :raising_hand_man: Sobre mim
+## :raising_hand_man: Introdução
 
 > Possuo 13 anos de experiência na área de tecnologia da informação. Sendo 6 deles com Testes de Software.  
 > Nos últimos 2 anos, dediquei-me exclusivamente para Automação de Testes usando a linguagem de programação Ruby.
