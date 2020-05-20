@@ -109,12 +109,11 @@
 ## :ng_man: Habilidades
 
 <details>
-  <summary>Linguagens de Programação:</summary>
-  
-    - Ruby
-    - Python
-    - JavaScript
-    - Java
+- Linguagens de Programação:
+  - Ruby
+  - Python
+  - JavaScript
+  - Java
 </details>
 
 <details>
