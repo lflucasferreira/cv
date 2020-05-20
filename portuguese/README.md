@@ -72,7 +72,7 @@
 
 - ### :us: <a href="http://www.dal.ca">English as a Second Language (ESL)</a>
 
-  - :globe_with_meridians: Fluente
+  - :globe_with_meridians: Acadêmico
   - :classical_building: __Dalhousie University__
   - :calendar: 09/2013 - 12/2013
   - :canada: Halifax, NS - Canadá
@@ -84,8 +84,6 @@
   - :clock1: 30h
   - :calendar: 03/2013 - 07/2013
   - :brazil: Recife, PE - Brasil
-
-- :brazil: __Português__: nativo
 
 ## :ng_man: Habilidades
 
