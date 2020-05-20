@@ -12,7 +12,7 @@
     <td>∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td> -->
     <td colspan="2">
       <h1>Lucas Ferreira da Silva</h1>
-      <td>:round_pushpin: <b>Recife, PE - Brasil</b>
+      :round_pushpin: <b>Recife, PE - Brasil</b>
     </td>
   </tr>
   <tr>
