@@ -34,7 +34,7 @@
     <td>:octocat: www.github.com/lflucasferreira</td>
   </tr>
   <tr>
-    <td>:round_pushpin: <b>Recife, PE - Brasil</b></td>
+    <td>:round_pushpin: <b>Recife, Pernambuco - Brasil</b></td>
     <td><img src="../images/linkedin.png"> www.linkedin.com/in/lflucasferreira</td>
   </tr>
 </table>
