@@ -46,7 +46,7 @@
 
 ## :hand: Sobre mim
 
-> Possuo 13 anos de experiência na área de tecnologia da informação.
+> Possuo 13 anos de experiência na área de tecnologia da informação.  
 > Há 6 anos dedicado à Testes de Software, sendo 2 anos são voltados para Automação de Testes com linguagem de programação Ruby.
 
 ## :briefcase: Experiência Profissional
