@@ -104,9 +104,8 @@
       - :brazil: Recife, PE - Brasil
   </details>
 
-- :brazil: __Português__: Nativo
-
 - :es: __Espanhol__: Básico
+- :brazil: __Português__: Nativo
 
 ## :ng_man: Habilidades
 
