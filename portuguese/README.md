@@ -90,7 +90,7 @@
 
   - :globe_with_meridians: Básico ao Avançado
   - :classical_building: __Minds English School__
-  - :clock1: 60h
+  - :clock1: 400h
   - :calendar: 01/2012 - 08/2013
   - :brazil: Recife, PE - Brasil
 
