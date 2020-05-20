@@ -47,6 +47,23 @@
     - :label: Automatiza Testes de Software na linguagem Ruby [API REST + Web + Mobile]
     - :hammer_and_wrench: TDD, BDD, MySQL, MSSQL, Postman, RSpec, Ruby, Docker, Jenkins.
   - :calendar: 05/2019 - Atual
+  - :brazil: Recife, PE - Brasil
+
+- ### :office: <a href="http://www.qualinfo.com.br">Qualinfo Tecnologia</a>
+
+  - :man_office_worker: __Analista de Testes__
+    - :label: Realiza Testes Manuais e Exploratórios [Web + Desktop]
+    - :hammer_and_wrench: MySQL, MSSQL, PHP, Laravel, Crystal Reports.
+  - :calendar: 09/2017 - 05/2019
+  - :brazil: Recife, PE - Brasil
+
+- ### :office: <a href="http://www.solutioninc.com">SolutionInc</a>
+
+  - :man_office_worker: __Estágio como Analista de Testes__
+    - :label: Realiza Testes Manuais e Exploratórios [Web + Mobile]
+    - :hammer_and_wrench: Linux, Redes de Comunicação, Documentação e Gerenciamento de Casos de Testes.
+  - :calendar: 05/2014 - 09/2014
+  - :canada: Halifax, NS - Canadá
 
 ## :mortar_board: Formação Acadêmica
 
