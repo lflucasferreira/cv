@@ -10,7 +10,7 @@
   <tr>
     <!-- <td>∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td>
     <td>∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td> -->
-    <td colspan="2">Lucas Ferreira da Silva</td>
+    <td colspan="2"><h1>Lucas Ferreira da Silva</h1></td>
   </tr>
   <tr>
     <td>:brazil: <b>Brasileiro</b></td>
