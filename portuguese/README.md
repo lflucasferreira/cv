@@ -114,7 +114,7 @@ xxx
 ## :trophy: Conquistas
 
 - :1st_place_medal: 1º Lugar no Desafio MV
-  - :office: <a href="http://www.mv.com.br">MV</a>
+  - :office: <a href="http://www.mv.com.br">MV Sistemas</a>
   - :calendar: 2018
 
 ## :dart: Metas
