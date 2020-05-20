@@ -54,10 +54,7 @@
 
 ## :briefcase: Experiência Profissional
 
-- ### :office: <a href="http://www.stefanini.com" target="_blank">Stefanini Document Solutions</a>
-
-<a href="http://www.stefanini.com" target="_blank">Stefanini Document Solutions</a>
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+- ### :office: <a href="http://www.stefanini.com">Stefanini Document Solutions</a>
 
   - :man_office_worker: Engenheiro de Testes
     - :label: Automatiza Testes de Software na linguagem Ruby [API REST + Web + Mobile]
@@ -69,7 +66,7 @@
 
 <!-- :closed_book: :green_book: :blue_book: :orange_book: -->
 
-- ### :classical_building: Dalhousie University
+- ### :classical_building: <a href="http://www.dal.ca">Dalhousie University</a>
 
   - :man_student: Bacharelado em Ciência da Computação
   - :airplane: Intercâmbio via CAPES - Governo Federal
@@ -78,7 +75,7 @@
 
 <!-- Bachelor of Computer Science, BCS -->
 
-- ### :classical_building: Universidade Federal Rural de Pernambuco (UFRPE)
+- ### :classical_building: <a href="http://www.ufrpe.br">Universidade Federal Rural de Pernambuco (UFRPE)</a>
 
   - :man_student: Bacharelado em Sistemas de Informação
   - :calendar: 2011 - 2020
