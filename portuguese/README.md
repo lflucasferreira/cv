@@ -18,7 +18,7 @@
     </td>
   </tr>
   <tr>
-    <td>:brazil: <b>Brasileiro</b></td>
+    <td>:brazil: <b>Brasileiro Nato</b></td>
     <td>:telephone_receiver: <b>+55 81 99722-6092</b></td>
   </tr>
   <tr>
