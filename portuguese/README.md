@@ -108,9 +108,8 @@
 
 ## :ng_man: Habilidades
 
-<details>
-  <summary>Linguagens de Programação:</summary>
-  <br>
+- Linguagens de Programação:
+
   <table>
     <tr>
       <td>Ruby</td>
@@ -119,7 +118,6 @@
       <td>Java</td>
     </tr>
   </table>
-</details>
 
 - Testes:
 
@@ -133,15 +131,18 @@
     </tr>
   </table>
 
-<details>
-  <summary>Bancos de Dados:</summary>
-  - MySQL
-  - Microsoft SQL Server
-  - PostgreSQL
-  - Redis
-  - MongoDB
-  - Oracle
-</details>
+- Bancos de Dados:
+
+  <table>
+    <tr>
+      <td>MySQL</td>
+      <td>Microsoft SQL Server</td>
+      <td>PostgreSQL</td>
+      <td>Redis</td>
+      <td>MongoDB</td>
+      <td>Oracle</td>
+    </tr>
+  </table>
 
 <details>
   <summary>DevOps:</summary>
