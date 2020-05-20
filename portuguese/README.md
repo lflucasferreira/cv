@@ -108,7 +108,7 @@
 
 ## :ng_man: Habilidades
 
-:warning: Cada seção está disposta da seguinte forma: do mais conhecido/utilizado para o menos.
+    :warning: Cada seção está disposta da seguinte forma: do mais conhecido/utilizado para o menos.
 
 - Linguagens de Programação:
 
@@ -125,11 +125,11 @@
 
   <table>
     <tr>
-      <td>Appium</td>
       <td>Capybara</td>
       <td>Cucumber</td>
       <td>RSpec</td>
       <td>HTTParty (API)</td>
+      <td>Appium</td>
     </tr>
   </table>
 
@@ -151,8 +151,8 @@
   <table>
     <tr>
       <td>Git</td>
-      <td>Linux</td>
       <td>Docker</td>
+      <td>Linux</td>
       <td>Jenkins</td>
     </tr>
   </table>
