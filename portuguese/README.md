@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>:brazil: <b>Brasileiro</b></td>
-    <td>:telephone_receiver: <a href="tel:5581997226092">+55 81 99722-6092</a></td>
+    <td>:telephone_receiver: <a href="tel:+50225079227;1">Call Now</a></td>
   </tr>
   <tr>
     <td>:birthday: <b>32 anos</b></td>
