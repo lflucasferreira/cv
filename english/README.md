@@ -194,7 +194,7 @@
 
 ## :trophy: Achievements
 
-- :1st_place_medal: 1º place at Challenge MV
+- :1st_place_medal: 1st place in the MV Challenge
   - :office: <a href="http://www.mv.com.br">MV Sistemas</a>
   - :bookmark: The challenge was carried out with 30 candidates divided into 10 teams of 3, each.
   - :bulb: The solution to this challenge was to suggest the Blockchain in order to decentralize the data in a secure way.
