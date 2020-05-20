@@ -14,7 +14,7 @@
       <h1>Lucas Ferreira da Silva</h1>
       <!-- :round_pushpin: <b>Recife, PE - Brasil</b> -->
       <!-- <img src="../images/linkedin.png"> www.linkedin.com/in/lflucasferreira -->
-      :man_technologist: <b>Engenheiro de Testes</b>
+      <h3>Engenheiro de Testes</h3>
     </td>
   </tr>
   <tr>
