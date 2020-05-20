@@ -108,40 +108,40 @@
 
 ## :ng_man: Habilidades
 
-  <details>
-    <summary>Linguagens de Programação:</summary>
-    - Ruby
-    - Python
-    - JavaScript
-    - Java
-  </details>
+<details>
+  <summary>Linguagens de Programação:</summary>
+  - Ruby
+  - Python
+  - JavaScript
+  - Java
+</details>
 
-  <details>
-    <summary>Testes:</summary>
-    - RSpec
-    - Capybara
-    - Cucumber
-    - HTTParty (API)
-    - Appium
-  </details>
+<details>
+  <summary>Testes:</summary>
+  - RSpec
+  - Capybara
+  - Cucumber
+  - HTTParty (API)
+  - Appium
+</details>
 
-  <details>
-    <summary>Bancos de Dados:</summary>
-    - MySQL
-    - Microsoft SQL Server
-    - PostgreSQL
-    - Redis
-    - MongoDB
-    - Oracle
-  </details>
+<details>
+  <summary>Bancos de Dados:</summary>
+  - MySQL
+  - Microsoft SQL Server
+  - PostgreSQL
+  - Redis
+  - MongoDB
+  - Oracle
+</details>
 
-  <details>
-    <summary>DevOps:</summary>
-    - Git
-    - Linux
-    - Docker
-    - Jenkins
-  </details>
+<details>
+  <summary>DevOps:</summary>
+  - Git
+  - Linux
+  - Docker
+  - Jenkins
+</details>
 
 ## :trophy: Conquistas
 
