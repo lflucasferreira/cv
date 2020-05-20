@@ -68,7 +68,7 @@
 
 - ### :classical_building: <a href="http://www.dal.ca">Dalhousie University</a>
 
-  - :man_student: Bacharelado em __Ciência da Computação__
+  - :man_student: __Bacharelado em Ciência da Computação__
     - :airplane: Intercâmbio via CAPES - Governo Federal
   - :calendar: 09/2013 - 12/2014
   - :canada: Halifax, NS - Canadá
