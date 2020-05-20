@@ -54,13 +54,13 @@
 
 ## :briefcase: Experiência Profissional
 
-- ### :office: Stefanini Document Solutions (:link: www.stefanini.com)
+- ### :office: Stefanini Document Solutions (www.stefanini.com)
 
   - :man_office_worker: Engenheiro de Testes
     - :label: Automatiza Testes de Software na linguagem Ruby [API REST + Web + Mobile]
     - :hammer_and_wrench: TDD, BDD, MySQL, MSSQL, Postman, RSpec, Ruby, Docker, Jenkins.
   - :calendar: 05/2019 - Atual
-  - :link: www.stefanini.com
+  <!-- - :link: www.stefanini.com -->
 
 ## :mortar_board: Formação Acadêmica
 
