@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>:sparkling_heart: <b>Solteiro</b></td>
-    <td>:e-mail: lucasferreira@outlook.com.br</td>
+    <td>:e-mail: <a href="mailto:lucasferreira@outlook.com.br">lucasferreira@outlook.com.br</a></td>
   </tr>
   <tr>
     <td>:baby: <b>Sem filhos</b></td>
