@@ -8,11 +8,11 @@
     </td>
   </tr>
   <tr>
-    <td>∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td>
-    <td>∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td>
-    <!-- <td colspan="2">
+    <!-- <td>∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Geral ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td>
+    <td>∙∙∙∙∙∙∙∙∙∙∙∙∙ Contato ∙∙∙∙∙∙∙∙∙∙∙∙∙∙</td> -->
+    <td colspan="2">
       <h1>Lucas Ferreira da Silva</h1>
-    </td> -->
+    </td>
   </tr>
   <tr>
     <td>:brazil: <b>Brasileiro</b></td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>:birthday: <b>32 anos</b></td>
-    <td>:computer: www.lucasferreira.net</td>
+    <td>:computer: lucasferreira.net</td>
   </tr>
   <tr>
     <td>:sparkling_heart: <b>Solteiro</b></td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>:baby: <b>Sem filhos</b></td>
-    <td>:octocat: www.github.com/lflucasferreira</td>
+    <td>:octocat: github.com/lflucasferreira</td>
   </tr>
   <tr>
     <td>:man_technologist: <b>Engenheiro de Testes</b></td>
